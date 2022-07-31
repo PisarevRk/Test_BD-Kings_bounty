@@ -1,0 +1,2 @@
+-reference:Assets/Plugins/Managed/System.Data.dll
+-reference:Assets/Plugins/Managed/Mono.Data.Sqlite.dll
